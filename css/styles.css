@@ -2,11 +2,12 @@
 
 /* THIS IS AN EXAMPLE */
 
-body { font-size:20px; line-height:5px; font-family: Helvetica; }
+body { font-size:20px; font-family: Helvetica; }
 
-.navbar{ background-color:LightPink; }
+.navbar{ background-color:LightPink; text-align:center; height:35px;}
+.navbar a{color:black; font-weight:bold;}
 
-p { color: black; }
+p { color:black; line-height:19px; text-align:center; }
 
 #byline { color: white; }
 
