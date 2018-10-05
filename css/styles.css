@@ -2,9 +2,9 @@
 
 /* THIS IS AN EXAMPLE */
 
-body {
-  background-color: red;
-}
+body { font-size:20px; line-height:5px; font-family: Helvetica; }
+
+.navbar{ background-color:LightPink; }
 
 p { color: black; }
 
