@@ -23,6 +23,27 @@ p { color:black; line-height:19px; text-align:center; }
 
 #byline { color: white; }
 
+<h3>
+<style>
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+
+a:active {
+  color: purple;
+
 blockquote p {
  font: italic 1em Georgia, Times, "Times New Roman", serif;
  font-size: 1em;
